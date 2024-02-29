@@ -1,0 +1,5 @@
+#include<iostream>
+using namespace std;
+int main(){
+  cout<<"Mubashir Hanif"<<endl;
+  cout<< "23SET046"<<endl;
