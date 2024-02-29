@@ -6,3 +6,5 @@ int main(){
 
 cout<<"The sum of Two Number is:"<< a+b <<endl;
 cout<<"The subtraction of two numbers is:"<<a-b<<endl;
+
+cout<<"The Mulitiplication of two numbers is:"<<a*b<<endl;
