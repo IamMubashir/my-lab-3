@@ -5,3 +5,8 @@ int main(){
   cout<< "23SET046"<<endl;
 
 cout<<"The sum of Two Number is:"<< a+b <<endl;
+cout<<"The subtraction of two numbers is:"<<a-b<<endl;
+
+cout<<"The Mulitiplication of two numbers is:"<<a*b<<endl;
+cout<< "The division of two numbers is :"<<a/b<<endl;
+}
